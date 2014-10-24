@@ -1,0 +1,36 @@
+button{
+	margin: auto;
+
+}
+
+input{
+	margin: auto;
+}
+
+
+#header{
+	margin: auto;
+	margin: auto;
+	border: 1px solid black;
+	width: 600px;
+	height:110px;
+}
+
+
+#main {
+	background-color: yellow;
+	height: 100%;
+	width: 600px;
+	margin: auto;
+}
+
+.item{
+	height: 50px;
+	width: 50px;
+	border: 2px solid black;
+	margin:auto;
+	background-color: pink;
+	text-align: center;
+	vertical-align: center;
+}
+
